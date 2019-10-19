@@ -7,6 +7,7 @@ using System.Linq;
 using System.Net.Sockets;
 using System.Text;
 using System.Threading;
+using System.Windows.Markup;
 using System.Windows.Threading;
 
 namespace OpenOcdTclClient
